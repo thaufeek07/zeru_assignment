@@ -32,12 +32,12 @@ The final CSV file (top_1000_wallets.csv) will be generated in the root director
 
 The scoring mechanism accounts for multiple wallet behaviors including:
 
-Interaction frequency with Compound V2
-Borrowing and repayment discipline
-Liquidation history
-Collateral vs borrow ratios
-Time-weighted activity consistency
-For a full explanation, see methodology.md.
+Interaction frequency with Compound V2  
+Borrowing and repayment discipline  
+Liquidation history  
+Collateral vs borrow ratios  
+Time-weighted activity consistency  
+For a full explanation, see methodology.md  
 
 ## Insights & Observations
 
