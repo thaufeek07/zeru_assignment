@@ -24,7 +24,7 @@ This project involves developing a risk scoring mechanism for wallets interactin
 2. Install required libraries:
    ```bash
    pip install pandas numpy
-3. Run the script:
+3. Run the script:  
 python score_wallets.py
 The final CSV file (top_1000_wallets.csv) will be generated in the root directory.
 
