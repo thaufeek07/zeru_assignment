@@ -49,5 +49,5 @@ Edge cases
 
 ## Author
 
-Assignment completed by Mohamed Thaufeek
+Assignment completed by Mohamed Thaufeek  
 Submitted for AI Engineer Intern Role – Zeru
