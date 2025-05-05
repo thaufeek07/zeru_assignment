@@ -1,4 +1,4 @@
-### ZERU – Internship Assignment
+# ZERU – Internship Assignment
 
 This project involves developing a risk scoring mechanism for wallets interacting with Compound V2 using historical transaction data. The goal is to rank wallets based on their reliability and behavior, and categorize them into risk segments for potential creditworthiness evaluation.
 
