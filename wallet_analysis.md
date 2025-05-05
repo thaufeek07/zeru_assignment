@@ -1,4 +1,4 @@
-### Wallet Analysis
+# Wallet Analysis
 
 This document summarizes key insights and patterns derived from analyzing user wallets on the Compound V2 protocol. The analysis was conducted after computing credit scores for each wallet based on their historical transactions involving supply, borrow, repay, withdraw, and liquidation activities.
 
