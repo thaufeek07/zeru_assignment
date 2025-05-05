@@ -41,11 +41,11 @@ For a full explanation, see methodology.md
 
 ## Insights & Observations
 
-Wallet behavior shows distinct patterns with respect to reliability and risk. See wallet_analysis.md for a full breakdown of:
+Wallet behavior shows distinct patterns with respect to reliability and risk.  See wallet_analysis.md for a full breakdown of:  
 
-Risk category distributions
-Interesting wallet traits
-Edge cases
+Risk category distributions  
+Interesting wallet traits  
+Edge cases  
 
 ## Author
 
